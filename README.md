@@ -175,29 +175,6 @@ Provided organizational leadership and participated in strategic decision-making
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
----
 
 # GitHub Analytics
 
@@ -212,14 +189,6 @@ Provided organizational leadership and participated in strategic decision-making
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kaz-hero123&theme=algolia&no-frame=true&column=4"/>
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
@@ -228,13 +197,6 @@ Provided organizational leadership and participated in strategic decision-making
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kaz-hero123/kaz-hero123/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
 
 # Current Focus
 
@@ -272,7 +234,7 @@ open_to:
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/hilman-nidal-hamzi-997969415">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
