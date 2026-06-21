@@ -72,49 +72,14 @@ Currently pursuing a **Bachelor Applied Degree (D4) at PENS**, while continuousl
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,linux" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql" />
 </p>
 
 ---
 
-# AI / ML Expertise
-
-| Domain                      | Proficiency  | Details                                               |
-| --------------------------- | ------------ | ----------------------------------------------------- |
-| AI Product Development      | Advanced     | Building AI-powered applications using LLM APIs       |
-| Prompt Engineering          | Advanced     | Structured prompting and workflow design              |
-| Computer Vision Integration | Intermediate | Gemini Vision-based report analysis                   |
-| Backend AI Systems          | Advanced     | AI API orchestration and scalable backend integration |
-| Data Processing             | Intermediate | Excel automation, reporting, and pipeline development |
-| Cloud AI Deployment         | Intermediate | Deploying AI products on Google Cloud Run             |
-
----
 
 # Featured Projects
 
-<details>
-<summary><strong>Rapor AI</strong></summary>
-
-### AI-Powered Academic Report Analysis Platform
-
-| Category    | Details                                        |
-| ----------- | ---------------------------------------------- |
-| Stack       | Node.js, Express, Gemini API, Google Cloud Run |
-| Scale       | Multi-user educational platform                |
-| Performance | Optimized AI response workflow                 |
-| Security    | Secure API architecture                        |
-| Impact      | Student & parent academic insights             |
-| Repository  | Private / Competition Project                  |
-
-Rapor AI leverages Google Gemini Vision capabilities to analyze school report cards and generate meaningful insights for students and parents. The platform was deployed on Google Cloud Run as part of Google Juara Vibe Coding 2026.
-
-</details>
 
 <details>
 <summary><strong>RFID Attendance System</strong></summary>
@@ -207,22 +172,6 @@ Provided organizational leadership and participated in strategic decision-making
 ---
 
 # Certifications
-
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge\&logo=amazonaws)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge\&logo=oracle)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge\&logo=cisco)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Engineering-7C3AED?style=for-the-badge)
 
 ---
 
