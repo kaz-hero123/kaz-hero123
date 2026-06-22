@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29196702/README.md)
 <div align="center">
 
 <img width="100%" src="assets/hero-banner.jpg" alt="Mountain valley sunset banner"/>
@@ -9,43 +8,30 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F2966B&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+and+Engineering;Incoming+D4+Software+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
 
-<br/>
-
-![PENS](https://img.shields.io/badge/PENS-Incoming%20D4%20Software%20Engineering-B3A0D6?style=for-the-badge)
-![SMKN 3 Pamekasan](https://img.shields.io/badge/SMKN%203%20Pamekasan-RPL%20Graduate-F2966B?style=for-the-badge)
-![Indonesia](https://img.shields.io/badge/Indonesia-East%20Java-7FCBA0?style=for-the-badge)
-
 <a href="https://github.com/kaz-hero123">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F2966B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:hilmanhamzi@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/kaz-hero123">
 <img src="https://img.shields.io/badge/GitHub-kaz--hero123-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
-![](https://komarev.com/ghpvc/?username=kaz-hero123&style=for-the-badge&color=F2966B)
-![](https://img.shields.io/github/followers/kaz-hero123?style=for-the-badge&color=B3A0D6)
-![](https://img.shields.io/github/stars/kaz-hero123?affiliations=OWNER&style=for-the-badge&color=7FCBA0)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=10&color=0:F2966B,50:B3A0D6,100:7FCBA0"/>
 
 </div>
-
----
 
 # About Me
 
 Backend-leaning full-stack developer who pairs hands-on engineering with project coordination. Hands-on experience comes from an internship at HummaTech Indonesia building a real RFID attendance system, plus several independently-built Laravel applications — from a role-based digital library platform to an AI-assisted report card analyzer.
 
-Incoming Bachelor Applied Degree (D4) Software Engineering student at **PENS (Politeknik Elektronika Negeri Surabaya)**, starting August 2026. Currently building two active projects while preparing for the transition.
+Incoming Bachelor Applied Degree (D4) Software Engineering student at **PENS (Politeknik Elektronika Negeri Surabaya)**, starting August 2026. Graduated from SMKN 3 Pamekasan (Software Engineering / RPL track). Based in Surabaya, East Java, Indonesia.
 
 ### Open To
 
@@ -210,30 +196,6 @@ Led the school's student legislative body, coordinating program evaluation and o
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kaz-hero123&theme=algolia&no-frame=true&column=4"/>
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaz-hero123&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kaz-hero123/kaz-hero123/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # Current Focus
 
 ```yaml
@@ -259,34 +221,10 @@ open_to:
 
 ---
 
-# Connect
-
-<p align="center">
-
-<a href="mailto:hilmanhamzi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kaz-hero123">
-<img src="https://img.shields.io/badge/GitHub-kaz--hero123-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F2966B?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
 <div align="center">
 
 *"Building real systems, learning in public, one commit at a time."*
 
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F2966B,50:B3A0D6,100:7FCBA0"/>
+
+</div>
