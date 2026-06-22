@@ -1,6 +1,5 @@
-[README.md](https://github.com/user-attachments/files/29196682/README.md)
-<div align="center">![Uploading hero-banner.jpg…]()
-
+[README.md](https://github.com/user-attachments/files/29196702/README.md)
+<div align="center">
 
 <img width="100%" src="assets/hero-banner.jpg" alt="Mountain valley sunset banner"/>
 
