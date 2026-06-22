@@ -1,17 +1,23 @@
-<div align="center">
+[README.md](https://github.com/user-attachments/files/29196682/README.md)
+<div align="center">![Uploading hero-banner.jpg…]()
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Hilman%20Nidal%20Hamzi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Laravel%20Engineer%20%7C%20Project%20Manager&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+and+Engineering;Incoming+D4+Software+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
+<img width="100%" src="assets/hero-banner.jpg" alt="Mountain valley sunset banner"/>
+
+<br/><br/>
+
+# Hilman Nidal Hamzi
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F2966B&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+and+Engineering;Incoming+D4+Software+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
 
 <br/>
 
-![PENS](https://img.shields.io/badge/PENS-Incoming%20D4%20Software%20Engineering-7C3AED?style=for-the-badge)
-![SMKN 3 Pamekasan](https://img.shields.io/badge/SMKN%203%20Pamekasan-RPL%20Graduate-4F46E5?style=for-the-badge)
-![Indonesia](https://img.shields.io/badge/Indonesia-East%20Java-blue?style=for-the-badge)
+![PENS](https://img.shields.io/badge/PENS-Incoming%20D4%20Software%20Engineering-B3A0D6?style=for-the-badge)
+![SMKN 3 Pamekasan](https://img.shields.io/badge/SMKN%203%20Pamekasan-RPL%20Graduate-F2966B?style=for-the-badge)
+![Indonesia](https://img.shields.io/badge/Indonesia-East%20Java-7FCBA0?style=for-the-badge)
 
 <a href="https://github.com/kaz-hero123">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F2966B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -28,9 +34,9 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=kaz-hero123&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/kaz-hero123?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/kaz-hero123?affiliations=OWNER&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=kaz-hero123&style=for-the-badge&color=F2966B)
+![](https://img.shields.io/github/followers/kaz-hero123?style=for-the-badge&color=B3A0D6)
+![](https://img.shields.io/github/stars/kaz-hero123?affiliations=OWNER&style=for-the-badge&color=7FCBA0)
 
 </div>
 
@@ -271,7 +277,7 @@ open_to:
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F2966B?style=for-the-badge"/>
 </a>
 
 </p>
@@ -284,4 +290,4 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F2966B,50:B3A0D6,100:7FCBA0"/>
