@@ -6,12 +6,12 @@
 
 # Hilman Nidal Hamzi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F2966B&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+and+Engineering;Incoming+D4+Software+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F2966B&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+%26+Software+Engineering;Incoming+D4+Software+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
 
 <a href="https://github.com/kaz-hero123">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F2966B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/hilman-nidal-hamzi-997969415">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:hilmanhamzi@gmail.com">
@@ -29,9 +29,15 @@
 
 # About Me
 
-Backend-leaning full-stack developer who pairs hands-on engineering with project coordination. Hands-on experience comes from an internship at HummaTech Indonesia building a real RFID attendance system, plus several independently-built Laravel applications — from a role-based digital library platform to an AI-assisted report card analyzer.
+Backend-leaning full-stack developer who pairs hands-on engineering with project coordination. Hands-on experience comes from an internship at HummaTech Indonesia building a real RFID attendance system, plus several independently-built Laravel applications — from a role-based digital library platform to an AI-assisted report card analyzer. Based in Surabaya, East Java, Indonesia.
 
-Incoming Bachelor Applied Degree (D4) Software Engineering student at **PENS (Politeknik Elektronika Negeri Surabaya)**, starting August 2026. Graduated from SMKN 3 Pamekasan (Software Engineering / RPL track). Based in Surabaya, East Java, Indonesia.
+### Education
+
+**PENS — Politeknik Elektronika Negeri Surabaya**
+D4 Software Engineering · Incoming, August 2026
+
+**SMKN 3 Pamekasan**
+Software Engineering (RPL) · Graduate
 
 ### Open To
 
