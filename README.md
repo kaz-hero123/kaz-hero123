@@ -61,8 +61,6 @@ Software Engineering (RPL) · Graduate
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
 <br/>
-<img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square"/>
 </p>
 
 ## Backend & Databases
