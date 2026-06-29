@@ -138,11 +138,11 @@ A practical application of a vision-language model to a real local use case — 
 
 # Experience
 
-## Software Development Intern — HummaTech Indonesia
+## Project Manager Intern — HummaTech Indonesia
 
 **2024 — 2025 · Internship**
 
-Contributed as a backend developer while taking on project coordination responsibilities for a school RFID attendance system.
+Contributed as a Project Manager while taking on project coordination responsibilities for a school RFID attendance system.
 
 ### Scope of Work
 
