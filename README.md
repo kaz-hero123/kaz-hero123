@@ -29,7 +29,7 @@
 
 # About Me
 
-Backend-leaning full-stack developer who pairs hands-on engineering with project coordination. Hands-on experience comes from an internship at HummaTech Indonesia building a real RFID attendance system, plus several independently-built Laravel applications — from a role-based digital library platform to an AI-assisted report card analyzer. Based in Surabaya, East Java, Indonesia.
+Backend-leaning full-stack developer who pairs hands-on engineering with project coordination. Hands-on experience comes from an internship at HummaTech Indonesia building a real RFID attendance system, plus several independently-built Laravel applications — from a role-based digital library platform to an AI-assisted report card analyzer. Based in Malang, East Java, Indonesia.
 
 ### Education
 
