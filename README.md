@@ -185,8 +185,6 @@ Led the school's student legislative body, coordinating program evaluation and o
 
 </div>
 
----
-
 # GitHub Analytics
 
 <p align="center">
@@ -197,8 +195,6 @@ Led the school's student legislative body, coordinating program evaluation and o
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kaz-hero123&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 # Current Focus
 
