@@ -45,6 +45,7 @@ Software Engineering (RPL) · Graduate
 * Full-Stack Development (Laravel ecosystem)
 * Project Coordination / Technical PM roles
 * Open-source collaboration
+* Project Manager
 
 ---
 
