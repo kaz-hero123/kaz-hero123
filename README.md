@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-# Hilman Nidal Hamzi DEV
+# Hilman Nidal Hamzi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F2966B&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+%26+Software+Engineering;Incoming+D4+Software+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
 
