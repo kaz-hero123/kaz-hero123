@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://giphy.com/gifs/ATLUSWest-dog-persona-3-koromaru-JJESkdRugMTvQthwr1" alt="Persona 3 banner"/>
+<img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhZGVwNnRmejZxeGt2aXQzY3V5MXY5Ym15YjByaGNrYW02cndyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="cat"/>
 
 
 <br/><br/>
