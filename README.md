@@ -1,23 +1,24 @@
 <div align="center">
 
-<a href="https://github.com/kaz-hero123">
-  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHoyOG8wcm05MnZsMjJhN2VpNTZjcnBzbTYzcXd0cGYyZHd5Mmx6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VgsbzY9rXBtyI6Lvg5/giphy.gif" alt="Animated Banner"/>
-</a>
+<img width="100%" src="assets/hero-banner.jpg" alt="Mountain valley sunset banner"/>
 
 <br/><br/>
 
 # Hilman Nidal Hamzi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=22\&pause=1200\&color=F2966B\&center=true\&vCenter=true\&width=900\&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+%26+Software+Engineering;D4+Informatics+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F2966B&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%26+Full-Stack+Engineer;Project+Management+%26+Software+Engineering;Incoming+D4+Software+Engineering+Student;Building+AI-Integrated+Web+Apps)](https://git.io/typing-svg)
 
 <a href="https://github.com/kaz-hero123">
-  <img src="https://img.shields.io/badge/GitHub-kaz--hero123-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-F2966B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/hilman-nidal-hamzi-997969415">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:hilmanhamzi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/kaz-hero123">
+<img src="https://img.shields.io/badge/GitHub-kaz--hero123-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -28,21 +29,23 @@
 
 # About Me
 
-Backend-leaning full-stack developer with hands-on experience in web development, system design, and project coordination.
+Backend-leaning full-stack developer who pairs hands-on engineering with project coordination. Hands-on experience comes from an internship at HummaTech Indonesia building a real RFID attendance system, plus several independently-built Laravel applications — from a role-based digital library platform to an AI-assisted report card analyzer. Based in Malang, East Java, Indonesia.
 
-I gained industry experience during my internship at **HummaTech Indonesia**, where I worked on a real-world RFID attendance system. I also build independent Laravel and Node.js applications, including a role-based digital library platform and an AI-assisted report card analyzer.
+### Education
 
-Currently pursuing **D4 Teknik Informatika at Politeknik Elektronika Negeri Surabaya (PENS)**.
-
----
-
-# Education
-
-**Politeknik Elektronika Negeri Surabaya (PENS)**
-D4 Teknik Informatika · 2026 — Present
+**PENS — Politeknik Elektronika Negeri Surabaya**
+D4 Software Engineering · Incoming, August 2026
 
 **SMKN 3 Pamekasan**
-Rekayasa Perangkat Lunak (RPL) · Graduate
+Software Engineering (RPL) · Graduate
+
+### Open To
+
+* Backend Development Internships
+* Full-Stack Development (Laravel ecosystem)
+* Project Coordination / Technical PM roles
+* Open-source collaboration
+* Project Manager
 
 ---
 
@@ -51,50 +54,37 @@ Rekayasa Perangkat Lunak (RPL) · Graduate
 ## Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,python" />
+<img src="https://skillicons.dev/icons?i=php,js,python" />
 </p>
 
 ## Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,livewire,alpinejs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+<br/>
 </p>
 
-## Backend & Frameworks
+## Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql" />
 </p>
 
-## Database
+## Tools & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-## Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,gcp" />
 </p>
 
 ---
 
 # Currently Building
 
-### UiVault
+**UiVault** — Personal local UI/UX moodboard manager, built with a frontend developer partner.
+*Stack: Laravel, Livewire, Alpine.js, MySQL* · Status: in development — data layer and color-extraction service complete.
 
-Personal local UI/UX moodboard manager built with a frontend developer partner.
-
-**Stack:** Laravel · Livewire · Alpine.js · MySQL
-**Status:** In development — data layer and color-extraction service complete.
-
-### Jelajah Madura
-
-Tourism platform for Madura Island, built with a 3-person team for IT Fest 2026.
-
-**Stack:** Laravel · MySQL
-**Status:** In development — competition project.
+**Jelajah Madura** — Tourism platform built for IT Fest 2026 with a 3-person team.
+*Stack: Laravel, MySQL* · Status: in development — targeting an August 5, 2026 competition deadline.
 
 ---
 
@@ -103,57 +93,45 @@ Tourism platform for Madura Island, built with a 3-person team for IT Fest 2026.
 <details>
 <summary><strong>RFID Attendance System</strong> — Internship Project, HummaTech Indonesia</summary>
 
-<br/>
+| Category    | Details                                              |
+| ----------- | ----------------------------------------------------- |
+| Stack       | Laravel, PHP, MySQL, Python (data tooling)            |
+| Architecture| Dual-pipeline design — gate-level + lesson-level tracking |
+| Tooling     | Python/openpyxl scripts for Excel-based data import   |
+| Role        | Backend developer & project coordinator               |
+| Repository  | Private (Internship — HummaTech Indonesia)            |
 
-| Category         | Details                                 |
-| ---------------- | --------------------------------------- |
-| **Stack**        | Laravel · PHP · MySQL · Python          |
-| **Architecture** | Dual-pipeline attendance system         |
-| **Tooling**      | Python / openpyxl · Postman             |
-| **Role**         | Backend Developer · Project Coordinator |
-| **Repository**   | Private — Internship Project            |
-
-Worked with an industry mentor to design a two-pipeline RFID attendance architecture separating gate-level check-in from lesson-level attendance.
-
-Responsibilities included attendance status logic, API endpoint mapping, Python-based Excel data tooling, and Postman QA testing.
+Worked with an industry mentor to design a two-pipeline RFID attendance architecture separating gate check-in from lesson-level attendance, including the status logic used on tablet-side devices. Also built API endpoint mapping and Postman-based QA testing.
 
 </details>
-
-<br/>
 
 <details>
 <summary><strong>OwlBook / PustakaKu</strong> — Digital Library Management System</summary>
 
-<br/>
+| Category    | Details                                |
+| ----------- | --------------------------------------- |
+| Stack       | Laravel, TailwindCSS, DomPDF             |
+| Scope       | 7-table schema, role-based access        |
+| Features    | Borrowing lifecycle state machine, PDF reporting |
+| Context     | Built as final exam (UKK) project        |
+| Repository  | Personal Project                         |
 
-| Category       | Details                                                                  |
-| -------------- | ------------------------------------------------------------------------ |
-| **Stack**      | Laravel · TailwindCSS · DomPDF                                           |
-| **Scope**      | 7-table database schema · Role-based access                              |
-| **Features**   | Borrowing lifecycle · Fine generation · Stock management · PDF reporting |
-| **Context**    | UKK Final Project                                                        |
-| **Repository** | Personal Project                                                         |
-
-A complete digital library management platform with role-based access control, borrowing lifecycle management, automated fine calculation, stock handling, and PDF reporting.
+A full digital library platform covering role-based access control, automated PDF reporting, and a complete borrowing lifecycle (including fine generation and stock handling).
 
 </details>
-
-<br/>
 
 <details>
 <summary><strong>Rapor AI</strong> — AI-Assisted Report Card Analyzer</summary>
 
-<br/>
+| Category    | Details                                          |
+| ----------- | ------------------------------------------------- |
+| Stack       | Node.js, Express, Gemini Vision API                |
+| Purpose     | Analyzes Indonesian school report card photos      |
+| Output      | Dual-persona summary (student view + parent view)  |
+| Context     | Built for Google JuaraVibeCoding 2026               |
+| Repository  | [kaz-hero123/rapor-ai](https://github.com/kaz-hero123/rapor-ai) |
 
-| Category       | Details                                                         |
-| -------------- | --------------------------------------------------------------- |
-| **Stack**      | Node.js · Express · Gemini Vision API                           |
-| **Purpose**    | Indonesian report card image analysis                           |
-| **Output**     | Student view + Parent view                                      |
-| **Context**    | Google JuaraVibeCoding 2026                                     |
-| **Repository** | [kaz-hero123/rapor-ai](https://github.com/kaz-hero123/rapor-ai) |
-
-A practical vision-AI application that extracts and interprets Indonesian school report cards, then generates two different explanations tailored to students and parents.
+A practical application of a vision-language model to a real local use case — extracting and interpreting report card data, then generating two different explanations tailored to student and parent audiences.
 
 </details>
 
@@ -165,28 +143,32 @@ A practical vision-AI application that extracts and interprets Indonesian school
 
 **2024 — 2025 · Internship**
 
-Contributed to the development and coordination of a school RFID attendance system.
+Contributed as a Project Manager while taking on project coordination responsibilities for a school RFID attendance system.
 
-* Co-designed a dual-pipeline attendance architecture
-* Defined attendance status logic and system vocabularies
-* Built Python/openpyxl tooling for Excel-based data imports
-* Mapped API endpoints and performed Postman-based QA testing
+### Scope of Work
+
+* Co-designed a dual-pipeline attendance architecture (gate-level vs. lesson-level tracking)
+* Worked with an industry mentor to define status logic and vocabularies for each pipeline
+* Built Python/openpyxl tooling to automate Excel-based student data imports
+* Mapped API endpoints and ran Postman-based QA testing
 * Coordinated with a small cross-functional development team
 
-**Skills:** `Laravel` `PHP` `MySQL` `Python` `System Design` `Project Coordination`
+**Skills:** `Laravel` `PHP` `MySQL` `Python` `Project Coordination` `System Design`
 
 <br/>
 
-## Chairman (Ketua) — MPK SMKN 3 Pamekasan
+## Chairman (Ketua), MPK — SMKN 3 Pamekasan
 
 **2024 — 2025**
 
-Led the school's student legislative organization and coordinated organizational communication.
+Led the school's student legislative body, coordinating program evaluation and organizational communication.
 
-* Led student legislative activities
+### Scope of Work
+
+* Led the student legislative organization
 * Coordinated program evaluations
-* Managed communication across student organizations
-* Supported school-level planning and organizational initiatives
+* Managed organizational communication across student bodies
+* Supported school-level strategic planning initiatives
 
 **Skills:** `Leadership` `Communication` `Organizational Management`
 
@@ -196,66 +178,53 @@ Led the school's student legislative organization and coordinated organizational
 
 <div align="center">
 
-| Recognition              | Details                           |
-| ------------------------ | --------------------------------- |
-| 🥇 **Gold Medal**        | National K2SN English Competition |
-| 🏅 **National Finalist** | TOPAZ English Competition         |
-| 🥈 **Silver Trophy**     | National Science Competition      |
+| Recognition       | Details                           |
+| ------------------ | ---------------------------------- |
+| Gold Medal         | National K2SN English Competition  |
+| National Finalist  | TOPAZ English Competition          |
+| Silver Trophy      | National Science Competition       |
 
 </div>
-
----
 
 # GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaz-hero123&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaz-hero123&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaz-hero123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaz-hero123&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaz-hero123&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kaz-hero123&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 # Current Focus
 
 ```yaml
 learning:
   - Software Architecture & System Design
-  - Cloud Fundamentals
-  - AI API Integration
+  - Cloud fundamentals (GCP / Cloud Run)
+  - AI API integration patterns
 
 building:
-  - Laravel + Livewire applications
-  - RFID-based attendance systems
+  - Laravel + Livewire web applications
+  - RFID-style attendance systems
   - AI-assisted tools
 
 exploring:
-  - DevOps fundamentals
-  - Open-source contribution
+  - DevOps basics
+  - Open source contribution
 
 open_to:
-  - Backend / Full-Stack opportunities
-  - Laravel projects
-  - Technical collaboration
-  - Open-source projects
+  - Internships
+  - Freelance Laravel projects
+  - Team collaboration
 ```
 
 ---
 
 <div align="center">
 
-### Let's build something meaningful.
-
 *"Building real systems, learning in public, one commit at a time."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kaz-hero123&style=for-the-badge&color=F2966B&label=PROFILE+VIEWS"/>
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F2966B,50:B3A0D6,100:7FCBA0"/>
 
