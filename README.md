@@ -106,7 +106,7 @@ Worked with an industry mentor to design a two-pipeline RFID attendance architec
 </details>
 
 <details>
-<summary><strong>OwlBook / PustakaKu</strong> — Digital Library Management System</summary>
+<summary><strong>OwlBook</strong> — Digital Library Management System</summary>
 <br/>
 
 | Category   | Details                                          |
