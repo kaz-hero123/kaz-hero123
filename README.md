@@ -87,9 +87,6 @@ Software Engineering (RPL) · Graduate
 
 ## Currently Building
 
-**UiVault** — Personal local UI/UX moodboard manager, built with a frontend developer partner.
-*Stack: Laravel, Livewire, Alpine.js, MySQL* · Status: in development — data layer and color-extraction service complete.
-
 **Jelajah Madura** — Tourism platform built for IT Fest 2026 with a 3-person team.
 *Stack: Laravel, MySQL* · Status: in development — targeting an August 5, 2026 competition deadline.
 
