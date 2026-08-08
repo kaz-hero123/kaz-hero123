@@ -26,7 +26,7 @@
 
 </div>
 
-## About Me
+## About Me!
 
 Backend-leaning full-stack developer who pairs hands-on engineering with project coordination. Hands-on experience comes from an internship at HummaTech Indonesia building a production RFID attendance system, plus several independently-built Laravel applications — from a role-based digital library platform to an AI-assisted report card analyzer. Based in Madura, East Java, Indonesia.
 
