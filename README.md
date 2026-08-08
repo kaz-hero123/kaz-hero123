@@ -38,7 +38,7 @@ D4 Software Engineering · Aug 2026
 **SMKN 3 Pamekasan**
 Software Engineering (RPL) · Graduate
 
-### Open To
+### Open To Many Things!
 
 - Backend Development Internships
 - Full-Stack Development (Laravel ecosystem)
@@ -116,7 +116,7 @@ Worked with an industry mentor to design a two-pipeline RFID attendance architec
 
 | Category   | Details                                          |
 | ---------- | -------------------------------------------------- |
-| Stack      | Laravel, TailwindCSS, DomPDF                       |
+| Stack      | Laravel, TailwindCSS, DomPDF, PHP                  |
 | Scope      | 7-table schema, role-based access                  |
 | Features   | Borrowing lifecycle state machine, PDF reporting   |
 | Context    | Built as final exam (UKK) project                  |
